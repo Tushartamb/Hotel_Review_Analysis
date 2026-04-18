@@ -8,41 +8,41 @@ This project goes beyond basic sentiment analysis by classifying customer review
 🛠️ Techniques: NLP, Text Preprocessing, TF-IDF</br>
 💻 Built with: Python & Jupyter Notebook</br>
 
-Sentiment Classes
-The model predicts the following categories:
-Delight
-Satisfied
-Neutral
-Disappointing
-Frustrated
+Sentiment Classes</br>
+The model predicts the following categories:</br>
+Delight</br>
+Satisfied</br>
+Neutral</br>
+Disappointing</br>
+Frustrated</br>
 
-Tech Stack
-Python
-Pandas
-NumPy
-Scikit-learn
-Natural Language Processing (NLP)
-Jupyter Notebook
+Tech Stack</br>
+Python</br>
+Pandas</br>
+NumPy</br>
+Scikit-learn</br>
+Natural Language Processing (NLP</br>
+Jupyter Notebook</br>
 
-Data Processing Pipeline
-Data Loading using Pandas DataFrame
-Text Cleaning
-Lowercasing
-Removing punctuation & special characters
-Removing stopwords
-Text Processing
-Tokenization
-Lemmatization
-Feature Engineering
-TF-IDF Vectorization
-Model Training
-Train-test split
-Logistic Regression model
+Data Processing Pipeline</br>
+Data Loading using Pandas DataFrame</br>
+Text Cleaning</br>
+Lowercasing</br>
+Removing punctuation & special characters</br>
+Removing stopwords</br>
+Text Processing</br>
+Tokenization</br>
+Lemmatization</br>
+Feature Engineering</br>
+TF-IDF Vectorization</br>
+Model Training</br>
+Train-test split</br>
+Logistic Regression model</br>
 
-Model Details
-Algorithm: Logistic Regression
-Problem Type: Multi-class Classification
-Input: Hotel review text
+Model Details</br>
+Algorithm: Logistic Regression</br>
+Problem Type: Multi-class Classification</br>
+Input: Hotel review text</br>
 Output: Sentiment category
 
 Conclusion
